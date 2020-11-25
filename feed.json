@@ -7,6 +7,19 @@
     "home_page_url": "https://bna-apron.github.io",
     "items": [
         {
+            "id": "https://bna-apron.github.io/2020/11/25/Hobby/",
+            "url": "https://bna-apron.github.io/2020/11/25/Hobby/",
+            "title": "エプロンの趣味",
+            "date_published": "2020-11-25T11:12:39.000Z",
+            "content_html": "<h1 id=\"この項目はただのエプロンの趣味で作成した動画などを公開します\"><a class=\"anchor\" href=\"#この項目はただのエプロンの趣味で作成した動画などを公開します\">#</a> この項目はただのエプロンの趣味で作成した動画などを公開します。</h1>\n<p><div class=\"video-container\"><iframe src=\"https://www.youtube.com/embed/QpGV-edVuVE\" frameborder=\"0\" loading=\"lazy\" allowfullscreen></iframe></div></p>\n",
+            "tags": [
+                "趣味",
+                "歌",
+                "3Dモデル",
+                "趣味"
+            ]
+        },
+        {
             "id": "https://bna-apron.github.io/2020/11/25/EventInformation/",
             "url": "https://bna-apron.github.io/2020/11/25/EventInformation/",
             "title": "EventInformation",
