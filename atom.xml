@@ -8,8 +8,184 @@
     <author>
       <name>エプロン</name>
     </author>
-    <updated>2020-11-22T12:27:31.000Z</updated>
+    <updated>2020-11-25T10:23:45.000Z</updated>
     <category term="age_of_z" />
+    <entry>
+        <id>https://bna-apron.github.io/2020/11/25/EventInformation/</id>
+        <title>EventInformation</title>
+        <link rel="alternate" href="https://bna-apron.github.io/2020/11/25/EventInformation/"/>
+        <content type="html">&lt;h1 id=&#34;最強指揮官イベント&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#最強指揮官イベント&#34;&gt;#&lt;/a&gt; 最強指揮官イベント&lt;/h1&gt;
+&lt;h2 id=&#34;最強指揮官イベントとは&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#最強指揮官イベントとは&#34;&gt;#&lt;/a&gt; 最強指揮官イベントとは？&lt;/h2&gt;
+&lt;h3 id=&#34;目標の達成で稼いだポイントで競う&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#目標の達成で稼いだポイントで競う&#34;&gt;#&lt;/a&gt; 目標の達成で稼いだポイントで競う&lt;/h3&gt;
+&lt;p&gt;最強指揮官は、期間毎にイベントの目標が切り替わり、各目標を達成すると報酬が獲得できる。またそれとは別に稼いだポイントによって各段階ごとのランキング報酬、総合ランキング報酬が獲得できる。&lt;/p&gt;
+&lt;h3 id=&#34;イベント目標は合計5種類&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#イベント目標は合計5種類&#34;&gt;#&lt;/a&gt; イベント目標は合計 5 種類&lt;/h3&gt;
+&lt;p&gt;1～4 段階目のイベント目標はランダムな順番で 1 日ごとに切り替わり、5 段階目のみ固定で 3 日間開催される。&lt;/p&gt;
+&lt;h4 id=&#34;イベント目標一覧&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#イベント目標一覧&#34;&gt;#&lt;/a&gt; イベント目標一覧&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;建物やテクノロジーのアップグレード量&lt;/li&gt;
+&lt;li&gt;資源の採集量&lt;/li&gt;
+&lt;li&gt;ゾンビの討伐数&lt;/li&gt;
+&lt;li&gt;兵士の募集数&lt;/li&gt;
+&lt;li&gt;敵撃殺 (5 段階目)：撃破したユニット数&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h4 id=&#34;期間毎のイベントスケジュール&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#期間毎のイベントスケジュール&#34;&gt;#&lt;/a&gt; 期間毎のイベントスケジュール&lt;/h4&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;開催期間&lt;/th&gt;
+&lt;th&gt;1 週間で 5 段階開催&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;1 段階目&lt;/td&gt;
+&lt;td&gt;月曜 AM9:00～火曜 AM8:59&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2 段階目&lt;/td&gt;
+&lt;td&gt;火曜 AM9:00～水曜 AM8:59&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;3 段階目&lt;/td&gt;
+&lt;td&gt;水曜 AM9:00～木曜 AM8:59&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;4 段階目&lt;/td&gt;
+&lt;td&gt;木曜 AM9:00～金曜 AM8:59&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;5 段階目&lt;/td&gt;
+&lt;td&gt;金曜 AM9:00～翌週月曜 AM8:59&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;イベントの報酬&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#イベントの報酬&#34;&gt;#&lt;/a&gt; イベントの報酬&lt;/h2&gt;
+&lt;p&gt;イベント全体を通して獲得した総合ポイントで順位が決まる。順位によって貰えるランキング報酬の数は増減する。&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;順位&lt;/th&gt;
+&lt;th&gt;獲得報酬&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;1 位&lt;/td&gt;
+&lt;td&gt;最強指揮官 (14 日) ※都市装飾アイテム&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2～10 位&lt;/td&gt;
+&lt;td&gt;エリート指揮官 (14 日)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;※都市装飾アイテム&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;1～100 位&lt;/td&gt;
+&lt;td&gt;ゴールド&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;1～100 位&lt;/td&gt;
+&lt;td&gt;同盟名誉&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;1～100 位&lt;/td&gt;
+&lt;td&gt;同盟ポイント&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;1～100 位&lt;/td&gt;
+&lt;td&gt;ブースト&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;1～100 位&lt;/td&gt;
+&lt;td&gt;副官の欠片の宝箱&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;段階別ランキング報酬内容&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#段階別ランキング報酬内容&#34;&gt;#&lt;/a&gt; 段階別ランキング報酬内容&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;順位&lt;/th&gt;
+&lt;th&gt;獲得報酬&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;1～100 位&lt;/td&gt;
+&lt;td&gt;ゴールドギフト&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;1～100 位&lt;/td&gt;
+&lt;td&gt;VIP ポイント&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;1～100 位&lt;/td&gt;
+&lt;td&gt;石油物資箱&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;1～100 位&lt;/td&gt;
+&lt;td&gt;食料物資箱&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;一定ポイントで獲得できる報酬&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#一定ポイントで獲得できる報酬&#34;&gt;#&lt;/a&gt; 一定ポイントで獲得できる報酬&lt;/h3&gt;
+&lt;p&gt;段階ごとに得たポイントが一定に達したとき報酬が獲得できる。最後の報酬ではゴールドも手に入る。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;ゴールド&lt;/li&gt;
+&lt;li&gt;同盟名誉&lt;/li&gt;
+&lt;li&gt;同盟ポイント&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;段階ごとのポイントの稼ぎ方&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#段階ごとのポイントの稼ぎ方&#34;&gt;#&lt;/a&gt; 段階ごとのポイントの稼ぎ方&lt;/h2&gt;
+&lt;h3 id=&#34;1~4段階目はブーストを使用する&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#1~4段階目はブーストを使用する&#34;&gt;#&lt;/a&gt; 1～4 段階目はブーストを使用する&lt;/h3&gt;
+&lt;p&gt;4 段階目まではブーストアイテム等を使用することで効率的にポイントを集められる。ハイスコアを狙うなら、イベント期間外は使わずに温存しておこう。&lt;/p&gt;
+&lt;h4 id=&#34;イベント目標とおすすめ使用アイテム&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#イベント目標とおすすめ使用アイテム&#34;&gt;#&lt;/a&gt; イベント目標とおすすめ使用アイテム&lt;/h4&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;イベント目標&lt;/th&gt;
+&lt;th&gt;使用アイテム&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;建物やテクノロジーの&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;アップグレード量&lt;/td&gt;
+&lt;td&gt;建設ブーストなど&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;ブースト系アイテム&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;資源の採集量&lt;/td&gt;
+&lt;td&gt;採集ボーナス&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;ゾンビの討伐数&lt;/td&gt;
+&lt;td&gt;車隊燃料&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;兵士の募集数&lt;/td&gt;
+&lt;td&gt;兵士募集ブースト&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;5段階目は積極的に敵を撃破する&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#5段階目は積極的に敵を撃破する&#34;&gt;#&lt;/a&gt; 5 段階目は積極的に敵を撃破する&lt;/h3&gt;
+&lt;h4 id=&#34;攻撃はどんどん仕掛けよう&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#攻撃はどんどん仕掛けよう&#34;&gt;#&lt;/a&gt; 攻撃はどんどん仕掛けよう&lt;/h4&gt;
+&lt;p&gt;5 段階目は敵ユニットを撃破した数でポイントが変動するため、勝てそうな敵にどんどん攻撃を仕掛けていこう。ただし相手が自分より強い場合や同盟に加入している場合は手痛い反撃を受ける可能性があるため、注意が必要となる&lt;/p&gt;
+&lt;h4 id=&#34;攻撃する際に同盟内で確認を行おう&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#攻撃する際に同盟内で確認を行おう&#34;&gt;#&lt;/a&gt; 攻撃する際に同盟内で確認を行おう&lt;/h4&gt;
+&lt;p&gt;同盟に加入している場合はむやみに攻撃すると同盟メンバーが敵に狙われたり、他同盟と戦闘が発生するといったデメリットがある。攻撃する際は目標となる敵ユニットを攻撃して良いか同盟内チャットで確認をしてから行おう。&lt;/p&gt;
+&lt;h4 id=&#34;敵が攻撃してきたら回避しよう&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#敵が攻撃してきたら回避しよう&#34;&gt;#&lt;/a&gt; 敵が攻撃してきたら回避しよう&lt;/h4&gt;
+&lt;p&gt;5 段階目では敵からの攻撃も激しくなる。敵が強いときは「平和の守護」を使用したり、兵士を同盟のフラッグや同盟要塞の共防に移動させてユニットの損失を防ごう。&lt;/p&gt;
+</content>
+        <category term="攻略" scheme="https://bna-apron.github.io/categories/%E6%94%BB%E7%95%A5/" />
+        <category term="イベント" scheme="https://bna-apron.github.io/categories/%E6%94%BB%E7%95%A5/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/" />
+        <category term="最強指揮官イベント" scheme="https://bna-apron.github.io/categories/%E6%94%BB%E7%95%A5/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/%E6%9C%80%E5%BC%B7%E6%8C%87%E6%8F%AE%E5%AE%98%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/" />
+        <category term="攻略" scheme="https://bna-apron.github.io/tags/%E6%94%BB%E7%95%A5/" />
+        <updated>2020-11-25T10:23:45.000Z</updated>
+    </entry>
     <entry>
         <id>https://bna-apron.github.io/2020/11/22/Technique/</id>
         <title>小技集</title>
