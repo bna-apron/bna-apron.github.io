@@ -18,7 +18,51 @@
 &lt;p&gt;砲台は何も強化していない状態である程度の得点を出す戦い方の参考資料になればと思い、試しに戦闘中の画面を録画してみました。&lt;br /&gt;
 昨日は 7446 点を出していたのでそれよりは低いですが、参考になれば幸いです。&lt;/p&gt;
 &lt;p&gt;&lt;div class=&#34;video-container&#34;&gt;&lt;iframe src=&#34;https://www.youtube.com/embed/gAel-jNdiqE&#34; frameborder=&#34;0&#34; loading=&#34;lazy&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;/p&gt;
-&lt;p&gt;ポイントも徐々に書き足していきますね。😊&lt;/p&gt;
+&lt;h2 id=&#34;解説&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#解説&#34;&gt;#&lt;/a&gt; 解説&lt;/h2&gt;
+&lt;p&gt;後半はグダグダになってますが、現時点で私が心がけている倒し方は次の通りです。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;ゴキを最優先で倒す&lt;br /&gt;
+基本的に、ゴキを潰すことでボムのチャージが早く溜まるので、最優先でゴキを倒すと良いと思います。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;レーダーをチラチラ見ながら次のターゲットを決める&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;レーダーに映っている点は水色→黄色→赤の順で優先順位をつける
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;優先度&lt;/th&gt;
+&lt;th&gt;点の色&lt;/th&gt;
+&lt;th&gt;敵の種類&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;最&lt;/td&gt;
+&lt;td&gt;水色&lt;/td&gt;
+&lt;td&gt;ゴキ&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;高&lt;/td&gt;
+&lt;td&gt;黄色&lt;/td&gt;
+&lt;td&gt;デカブツ&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;低&lt;/td&gt;
+&lt;td&gt;赤&lt;/td&gt;
+&lt;td&gt;雑魚のゾンビなど&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;デカブツはなるべくボムで倒す&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;簡単にでしたが、以上です😊&lt;/p&gt;
 </content>
         <category term="攻略" scheme="https://bna-apron.github.io/categories/%E6%94%BB%E7%95%A5/" />
         <category term="巨砲守備戦" scheme="https://bna-apron.github.io/categories/%E6%94%BB%E7%95%A5/%E5%B7%A8%E7%A0%B2%E5%AE%88%E5%82%99%E6%88%A6/" />
