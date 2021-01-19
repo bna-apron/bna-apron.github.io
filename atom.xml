@@ -526,25 +526,63 @@ Discord というアプリで接続します。&lt;br /&gt;
         <title>schedule</title>
         <link rel="alternate" href="https://bna-apron.github.io/2020/11/20/schedule/"/>
         <content type="html">&lt;h1 id=&#34;bna同盟の日々行うイベントスケジュールを叩き台としてここに記載しておきます&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#bna同盟の日々行うイベントスケジュールを叩き台としてここに記載しておきます&#34;&gt;#&lt;/a&gt; BNA 同盟の日々行うイベントスケジュールを叩き台としてここに記載しておきます。&lt;/h1&gt;
-&lt;h2 id=&#34;末世の戦場&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#末世の戦場&#34;&gt;#&lt;/a&gt; 末世の戦場&lt;/h2&gt;
-&lt;pre&gt;&lt;code&gt;毎週日曜の夜22:00頃に末世の戦場（略奪軍の台頭）を開催したいと思います。
-よろしくお願いいたします。
-&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&#34;同盟イベント一覧&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#同盟イベント一覧&#34;&gt;#&lt;/a&gt; 同盟イベント一覧&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;No&lt;/th&gt;
+&lt;th&gt;同盟イベント名&lt;/th&gt;
+&lt;th&gt;実施日時&lt;/th&gt;
+&lt;th&gt;備考&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;デイリー廃墟 or 恐竜&lt;/td&gt;
+&lt;td&gt;随時（メンバーが揃いそうなタイミング）&lt;/td&gt;
+&lt;td&gt;PVE&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;ゾンビパニック&lt;/td&gt;
+&lt;td&gt;毎週土曜日 22:00&lt;/td&gt;
+&lt;td&gt;PVE&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;末世の戦場&lt;/td&gt;
+&lt;td&gt;毎週日曜日 22:00&lt;/td&gt;
+&lt;td&gt;PVE&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;td&gt;同盟倉庫の資源配分&lt;/td&gt;
+&lt;td&gt;毎週日曜 9:00&lt;/td&gt;
+&lt;td&gt;非戦闘&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;※PVE:Player VS Environment, PVP:Player VS Player&lt;/p&gt;
 &lt;h2 id=&#34;デイリー廃墟-or-恐竜&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#デイリー廃墟-or-恐竜&#34;&gt;#&lt;/a&gt; デイリー廃墟 or 恐竜&lt;/h2&gt;
 &lt;pre&gt;&lt;code&gt;本日はご参加くださった皆様ありがとうございました。
 毎晩、同様の時間帯に何らかのPVE戦を発起したいと思いますので、お手隙の方は奮ってご参加ください。
 2020年11月22日に5ウェーブを初めて突破しました！！
 ご協力頂いた皆様に厚く御礼を申し上げます。
 &lt;/code&gt;&lt;/pre&gt;
-&lt;h2 id=&#34;倉庫の資源配分について&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#倉庫の資源配分について&#34;&gt;#&lt;/a&gt; 倉庫の資源配分について&lt;/h2&gt;
-&lt;pre&gt;&lt;code&gt;毎週日曜の午前9時前後を目標に分配していこうと思います。
-ご意見等ありましたら遠慮なく言ってください。
+&lt;h2 id=&#34;末世の戦場&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#末世の戦場&#34;&gt;#&lt;/a&gt; 末世の戦場&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;毎週日曜の夜22:00頃に末世の戦場（略奪軍の台頭）を開催したいと思います。
+よろしくお願いいたします。
 &lt;/code&gt;&lt;/pre&gt;
 &lt;h2 id=&#34;ゾンビパニック&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#ゾンビパニック&#34;&gt;#&lt;/a&gt; ゾンビパニック&lt;/h2&gt;
 &lt;pre&gt;&lt;code&gt;ゴールド対策としてゾンビパニックが有効との情報を頂きました。
 更に終了時に旗のヒットポイントが回復しました。
 つきましては、毎週土曜日の夜22:00頃に3名以上集まったらゾンビパニックを開始します。
 ただし、BNAに加盟してから1週間未満のアカウントは参加できないようですので入ったばかりの方はご注意ください。
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&#34;倉庫の資源配分について&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#倉庫の資源配分について&#34;&gt;#&lt;/a&gt; 倉庫の資源配分について&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;毎週日曜の午前9時前後を目標に分配していこうと思います。
+ご意見等ありましたら遠慮なく言ってください。
 &lt;/code&gt;&lt;/pre&gt;
 </content>
         <category term="schedule" scheme="https://bna-apron.github.io/tags/schedule/" />
