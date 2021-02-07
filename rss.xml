@@ -10,9 +10,33 @@
         </author>
         <description>BNA公式サイト</description>
         <language>ja</language>
-        <pubDate>Sun, 07 Feb 2021 10:39:59 +0900</pubDate>
-        <lastBuildDate>Sun, 07 Feb 2021 10:39:59 +0900</lastBuildDate>
+        <pubDate>Sun, 07 Feb 2021 23:47:26 +0900</pubDate>
+        <lastBuildDate>Sun, 07 Feb 2021 23:47:26 +0900</lastBuildDate>
         <category term="age_of_z" />
+        <item>
+            <guid isPermalink="true">https://bna-apron.github.io/2021/02/07/Information/</guid>
+            <title>改版履歴</title>
+            <link>https://bna-apron.github.io/2021/02/07/Information/</link>
+            <category term="改版履歴" scheme="https://bna-apron.github.io/tags/%E6%94%B9%E7%89%88%E5%B1%A5%E6%AD%B4/" />
+            <pubDate>Sun, 07 Feb 2021 23:47:26 +0900</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;改版履歴&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#改版履歴&#34;&gt;#&lt;/a&gt; 改版履歴&lt;/h1&gt;
+&lt;p&gt;ここでは、大きな変更を行った際の改版履歴を記載していきます。&lt;/p&gt;
+&lt;h3 id=&#34;20210207&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#20210207&#34;&gt;#&lt;/a&gt; 2021.02.07&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;注目のカテゴリを新設し、固定記事として掲載していたスケジュールを除いて注目のカテゴリに移動しました。&lt;/li&gt;
+&lt;li&gt;注目のカテゴリに BNA 活動日誌と被害報告を整理しました。&lt;/li&gt;
+&lt;li&gt;飾りだけだったコメント機能を実装しましたが、まだ対向側のサーバが機能していないので投稿はできません（笑）&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;20201206&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#20201206&#34;&gt;#&lt;/a&gt; 2020.12.06&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;BNA の LINE 公式アカウントを開設&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;20201120&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#20201120&#34;&gt;#&lt;/a&gt; 2020.11.20&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;BNA 公式サイトとして本ページを作成&lt;/li&gt;
+&lt;/ol&gt;
+ ]]></description>
+        </item>
         <item>
             <guid isPermalink="true">https://bna-apron.github.io/2021/02/07/Report/2021Reports/</guid>
             <title>被害状況報告(2021年)</title>
@@ -30,10 +54,10 @@
 &lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td&gt;1 回目の襲撃&lt;img data-src=&#34;/assets/20210207/Loss/IMG_5734.png&#34; alt=&#34;1回目の襲撃&#34; /&gt;&lt;/td&gt;
-&lt;td&gt;2 回目の襲撃&lt;img data-src=&#34;/assets/20210207/Loss/IMG_5735.png&#34; alt=&#34;2回目の襲撃&#34; /&gt;&lt;/td&gt;
-&lt;td&gt;3 回目の襲撃&lt;img data-src=&#34;/assets/20210207/Loss/IMG_5736.png&#34; alt=&#34;3回目の襲撃&#34; /&gt;&lt;/td&gt;
-&lt;td&gt;4 回目の襲撃&lt;img data-src=&#34;/assets/20210207/Loss/IMG_5737.png&#34; alt=&#34;4回目の襲撃&#34; /&gt;&lt;/td&gt;
+&lt;td&gt;1 回目の襲撃&lt;img data-src=&#34;/assets/20210207/IMG_5734.PNG&#34; alt=&#34;1回目の襲撃&#34; /&gt;&lt;/td&gt;
+&lt;td&gt;2 回目の襲撃&lt;img data-src=&#34;/assets/20210207/IMG_5735.PNG&#34; alt=&#34;2回目の襲撃&#34; /&gt;&lt;/td&gt;
+&lt;td&gt;3 回目の襲撃&lt;img data-src=&#34;/assets/20210207/IMG_5736.PNG&#34; alt=&#34;3回目の襲撃&#34; /&gt;&lt;/td&gt;
+&lt;td&gt;4 回目の襲撃&lt;img data-src=&#34;/assets/20210207/IMG_5737.PNG&#34; alt=&#34;4回目の襲撃&#34; /&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;

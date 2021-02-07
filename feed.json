@@ -7,11 +7,21 @@
     "home_page_url": "https://bna-apron.github.io",
     "items": [
         {
+            "id": "https://bna-apron.github.io/2021/02/07/Information/",
+            "url": "https://bna-apron.github.io/2021/02/07/Information/",
+            "title": "改版履歴",
+            "date_published": "2021-02-07T14:47:26.000Z",
+            "content_html": "<h1 id=\"改版履歴\"><a class=\"anchor\" href=\"#改版履歴\">#</a> 改版履歴</h1>\n<p>ここでは、大きな変更を行った際の改版履歴を記載していきます。</p>\n<h3 id=\"20210207\"><a class=\"anchor\" href=\"#20210207\">#</a> 2021.02.07</h3>\n<ol>\n<li>注目のカテゴリを新設し、固定記事として掲載していたスケジュールを除いて注目のカテゴリに移動しました。</li>\n<li>注目のカテゴリに BNA 活動日誌と被害報告を整理しました。</li>\n<li>飾りだけだったコメント機能を実装しましたが、まだ対向側のサーバが機能していないので投稿はできません（笑）</li>\n</ol>\n<h3 id=\"20201206\"><a class=\"anchor\" href=\"#20201206\">#</a> 2020.12.06</h3>\n<ol>\n<li>BNA の LINE 公式アカウントを開設</li>\n</ol>\n<h3 id=\"20201120\"><a class=\"anchor\" href=\"#20201120\">#</a> 2020.11.20</h3>\n<ol>\n<li>BNA 公式サイトとして本ページを作成</li>\n</ol>\n",
+            "tags": [
+                "改版履歴"
+            ]
+        },
+        {
             "id": "https://bna-apron.github.io/2021/02/07/Report/2021Reports/",
             "url": "https://bna-apron.github.io/2021/02/07/Report/2021Reports/",
             "title": "被害状況報告(2021年)",
             "date_published": "2021-02-07T01:39:59.000Z",
-            "content_html": "<h2 id=\"2021年2月7日\"><a class=\"anchor\" href=\"#2021年2月7日\">#</a> 2021 年 2 月 7 日</h2>\n<h3 id=\"sw1皮瑞斯紅人通称スケベニーが我々の寝落ち後に攻撃してきました\"><a class=\"anchor\" href=\"#sw1皮瑞斯紅人通称スケベニーが我々の寝落ち後に攻撃してきました\">#</a> 「(SW1) 皮瑞斯紅人」＝通称「スケベニー」が我々の寝落ち後に攻撃してきました。</h3>\n<table>\n<thead>\n<tr>\n<th colspan=\"4\">(SW1) 皮瑞斯紅人による損害</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>1 回目の襲撃<img data-src=\"/assets/20210207/Loss/IMG_5734.png\" alt=\"1回目の襲撃\" /></td>\n<td>2 回目の襲撃<img data-src=\"/assets/20210207/Loss/IMG_5735.png\" alt=\"2回目の襲撃\" /></td>\n<td>3 回目の襲撃<img data-src=\"/assets/20210207/Loss/IMG_5736.png\" alt=\"3回目の襲撃\" /></td>\n<td>4 回目の襲撃<img data-src=\"/assets/20210207/Loss/IMG_5737.png\" alt=\"4回目の襲撃\" /></td>\n</tr>\n</tbody>\n</table>\n<p>執拗に攻撃してきていることがわかりますね。<br />\n資源狙いということなのでしょうか。<br />\nこいつは弱い者いじめしかできないチキンであることをご理解頂けたでしょうか。以前は嫌になって辞めてしまった「はゆさん」へ執拗な資源略奪行為を繰り返した挙句、「この攻撃は俺から奪った資源を返してもらっているだけだ」とかほざいていましたが、今度は誰の資源も奪ったことのない「マーラーさん」へ攻撃してきてました。ちなみに強い他のメンバーは狙われませんでした。弱いところだけ攻撃してくる卑劣極まりない下衆ですね。</p>\n",
+            "content_html": "<h2 id=\"2021年2月7日\"><a class=\"anchor\" href=\"#2021年2月7日\">#</a> 2021 年 2 月 7 日</h2>\n<h3 id=\"sw1皮瑞斯紅人通称スケベニーが我々の寝落ち後に攻撃してきました\"><a class=\"anchor\" href=\"#sw1皮瑞斯紅人通称スケベニーが我々の寝落ち後に攻撃してきました\">#</a> 「(SW1) 皮瑞斯紅人」＝通称「スケベニー」が我々の寝落ち後に攻撃してきました。</h3>\n<table>\n<thead>\n<tr>\n<th colspan=\"4\">(SW1) 皮瑞斯紅人による損害</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>1 回目の襲撃<img data-src=\"/assets/20210207/IMG_5734.PNG\" alt=\"1回目の襲撃\" /></td>\n<td>2 回目の襲撃<img data-src=\"/assets/20210207/IMG_5735.PNG\" alt=\"2回目の襲撃\" /></td>\n<td>3 回目の襲撃<img data-src=\"/assets/20210207/IMG_5736.PNG\" alt=\"3回目の襲撃\" /></td>\n<td>4 回目の襲撃<img data-src=\"/assets/20210207/IMG_5737.PNG\" alt=\"4回目の襲撃\" /></td>\n</tr>\n</tbody>\n</table>\n<p>執拗に攻撃してきていることがわかりますね。<br />\n資源狙いということなのでしょうか。<br />\nこいつは弱い者いじめしかできないチキンであることをご理解頂けたでしょうか。以前は嫌になって辞めてしまった「はゆさん」へ執拗な資源略奪行為を繰り返した挙句、「この攻撃は俺から奪った資源を返してもらっているだけだ」とかほざいていましたが、今度は誰の資源も奪ったことのない「マーラーさん」へ攻撃してきてました。ちなみに強い他のメンバーは狙われませんでした。弱いところだけ攻撃してくる卑劣極まりない下衆ですね。</p>\n",
             "tags": [
                 "Report",
                 "Report"
