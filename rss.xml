@@ -10,9 +10,77 @@
         </author>
         <description>BNA公式サイト</description>
         <language>ja</language>
-        <pubDate>Sun, 07 Feb 2021 23:47:26 +0900</pubDate>
-        <lastBuildDate>Sun, 07 Feb 2021 23:47:26 +0900</lastBuildDate>
+        <pubDate>Sat, 06 Mar 2021 06:10:37 +0900</pubDate>
+        <lastBuildDate>Sat, 06 Mar 2021 06:10:37 +0900</lastBuildDate>
         <category term="age_of_z" />
+        <item>
+            <guid isPermalink="true">https://bna-apron.github.io/2021/03/06/Tactical/endless_zombie/</guid>
+            <title>「エンドレスゾンビ襲来」で1万点を超えるための設置手順</title>
+            <link>https://bna-apron.github.io/2021/03/06/Tactical/endless_zombie/</link>
+            <category term="Tactical" scheme="https://bna-apron.github.io/categories/Tactical/" />
+            <category term="エンドレスゾンビ" scheme="https://bna-apron.github.io/categories/Tactical/%E3%82%A8%E3%83%B3%E3%83%89%E3%83%AC%E3%82%B9%E3%82%BE%E3%83%B3%E3%83%93/" />
+            <category term="攻略" scheme="https://bna-apron.github.io/categories/Tactical/%E3%82%A8%E3%83%B3%E3%83%89%E3%83%AC%E3%82%B9%E3%82%BE%E3%83%B3%E3%83%93/%E6%94%BB%E7%95%A5/" />
+            <category term="攻略" scheme="https://bna-apron.github.io/tags/%E6%94%BB%E7%95%A5/" />
+            <pubDate>Sat, 06 Mar 2021 06:10:37 +0900</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;エンドレスゾンビ&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#エンドレスゾンビ&#34;&gt;#&lt;/a&gt; エンドレスゾンビ&lt;/h1&gt;
+&lt;p&gt;エンドレスゾンビでコンスタントに 1 万点超えを獲得できるようにするにはどういう戦略が良いか攻略法を研究していたところ一つ結果が出たので、整理してみました。&lt;/p&gt;
+&lt;h2 id=&#34;エプロンが試行した限りではこの手順で-こんな結果が出ました&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#エプロンが試行した限りではこの手順で-こんな結果が出ました&#34;&gt;#&lt;/a&gt; エプロンが試行した限りではこの手順で、こんな結果が出ました♪&lt;/h2&gt;
+&lt;p&gt;&lt;img data-src=&#34;/assets/endlesszombie/IMG_5936.PNG&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;mapの状態と砲塔設置手順&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#mapの状態と砲塔設置手順&#34;&gt;#&lt;/a&gt; MAP の状態と砲塔設置手順&lt;/h2&gt;
+&lt;p&gt;今回私が割とコンスタントに 1 満点を超えることができたケースを元にした手順をざっくりと作成しました。&lt;/p&gt;
+&lt;p&gt;もっと安定した高効率な手順を発見した際はそれも追記していこうと思います。&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/assets/endlesszombie/type1.png&#34; alt=&#34;&amp;quot;fig.1&amp;quot;&#34; /&gt;&lt;/p&gt;
+&lt;h3 id=&#34;説明&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#説明&#34;&gt;#&lt;/a&gt; 説明&lt;/h3&gt;
+&lt;h4 id=&#34;前提条件&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#前提条件&#34;&gt;#&lt;/a&gt; 前提条件&lt;/h4&gt;
+&lt;p&gt;図に示した通り、敵ゾンビ共が、A→B→C→D の順に湧いてくるマップのタイプでの説明になります。&lt;br /&gt;
+なので、もし、別の出口から出てくるタイプのマップになっていた場合は、リトライを繰り返すことでこのタイプのマップを意図的に選択できます。&lt;/p&gt;
+&lt;h4 id=&#34;上の図の見方&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#上の図の見方&#34;&gt;#&lt;/a&gt; 上の図の見方&lt;/h4&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;アイコン&lt;/th&gt;
+&lt;th&gt;説明&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img data-src=&#34;/assets/endlesszombie/sword.png&#34; alt=&#34;&#34; /&gt;&lt;/td&gt;
+&lt;td&gt;砲塔設置可能な位置&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img data-src=&#34;/assets/endlesszombie/wall.png&#34; alt=&#34;&#34; /&gt;&lt;/td&gt;
+&lt;td&gt;通行障害と砲塔設置不可能位置&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;数字 + 文字&lt;/td&gt;
+&lt;td&gt;数字は設置する順番を表します。その隣の文字は以下で説明します&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;ABCD&lt;/td&gt;
+&lt;td&gt;敵ゾンビが湧いてくる順序の出入口&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;マ：マシンガンタワー、ロ：ロケットタワー、レ：レーザータワー、電：電磁タワー&lt;/p&gt;
+&lt;h4 id=&#34;砲塔の設置順と強化順序の考え方&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#砲塔の設置順と強化順序の考え方&#34;&gt;#&lt;/a&gt; 砲塔の設置順と強化順序の考え方&lt;/h4&gt;
+&lt;p&gt;各フェーズで、もらえるアイテムは選択可能数と、もらえるもののグレードが上がるものを優先して選択しましょう。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;序盤から基本的に 1～26 番まで図に振った番号順に電磁タワー以外は 2 までアップグレードしながら設置していく&lt;/li&gt;
+&lt;li&gt;27, 28 は最初は 2 にアップグレードせずに、1 でとどめて 30 番まで順番に砲塔を設置していく&lt;/li&gt;
+&lt;li&gt;様子をみつつすべての電磁タワーを 2 にアップグレード&lt;/li&gt;
+&lt;li&gt;フェーズ 5 に入ったら、27, 28 を 2 にアップグレード、続いて 31、32 を設置&lt;/li&gt;
+&lt;li&gt;ゴール付近の砲塔から 3 にアップグレードしていく 17, 16, 14&lt;/li&gt;
+&lt;li&gt;フェーズ 6 に入ると D からもゾンビがスポーンし始めるので、砲塔設置を再開 33, 34, 35 を 2 にせずに 1 の状態で設置&lt;/li&gt;
+&lt;li&gt;36 を設置し、2 にアップグレード&lt;/li&gt;
+&lt;li&gt;37 を設置し、2 にアップグレード&lt;/li&gt;
+&lt;li&gt;38 を設置し、2 にアップグレード&lt;/li&gt;
+&lt;li&gt;34 を 2 にアップグレード&lt;/li&gt;
+&lt;li&gt;敵の侵攻が落ち着いてきたら、3 へのアップグレードを再開 (26, 29, 13, 27, 9 , 22, 28, 23, 32)&lt;/li&gt;
+&lt;li&gt;残りの電磁タワーを 3 にアップグレード (15, 12, 36)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;大体この辺りまでで 1 万点前後に到達しているはずです。あとは副官等のアップグレードで底上げしていければ更に得点は伸びると思われます。&lt;/p&gt;
+ ]]></description>
+        </item>
         <item>
             <guid isPermalink="true">https://bna-apron.github.io/2021/02/07/Information/</guid>
             <title>改版履歴</title>
@@ -173,13 +241,14 @@ Uee の皆様、BNA の皆様、お疲れさまでした。&lt;br /&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
-&lt;th colspan=&#34;2&#34;&gt;合同練習の様子&lt;/th&gt;
+&lt;th colspan=&#34;3&#34;&gt;合同練習の様子&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td&gt;&lt;img data-src=&#34;/assets/20210219/IMG_5844.PNG&#34; alt=&#34;&#34; /&gt;&lt;/td&gt;
 &lt;td&gt;&lt;img data-src=&#34;/assets/20210219/IMG_5845.PNG&#34; alt=&#34;&#34; /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img data-src=&#34;/assets/20210219/IMG_5842.PNG&#34; alt=&#34;&#34; /&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
@@ -192,11 +261,11 @@ Uee の皆様、BNA の皆様、お疲れさまでした。&lt;br /&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td&gt;&lt;img data-src=&#34;/assets/20210219/IMG_5842.PNG&#34; alt=&#34;&#34; /&gt;&lt;/td&gt;
 &lt;td&gt;&lt;img data-src=&#34;/assets/20210219/IMG_5843.PNG&#34; alt=&#34;&#34; /&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
+&lt;p&gt;みんなで協力防衛に入りました。スクリーンショットがありませんが、この後、負けて rai さんの城は燃えてしまいました OTL&lt;/p&gt;
 &lt;h2 id=&#34;2021年2月18日&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#2021年2月18日&#34;&gt;#&lt;/a&gt; 2021 年 2 月 18 日&lt;/h2&gt;
 &lt;h3 id=&#34;変異恐竜退治&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#変異恐竜退治&#34;&gt;#&lt;/a&gt; 変異恐竜退治！&lt;/h3&gt;
 &lt;p&gt;新たに BNA メンバーになった rai さんと恐竜退治をしました♪&lt;/p&gt;
