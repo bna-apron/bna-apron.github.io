@@ -7,6 +7,19 @@
     "home_page_url": "https://bna-apron.github.io",
     "items": [
         {
+            "id": "https://bna-apron.github.io/Tactical/Operation/%E6%93%8D%E4%BD%9C%E6%96%B9%E6%B3%95/Tactical/Operation/",
+            "url": "https://bna-apron.github.io/Tactical/Operation/%E6%93%8D%E4%BD%9C%E6%96%B9%E6%B3%95/Tactical/Operation/",
+            "title": "操作方法",
+            "date_published": "2021-05-23T11:56:25.000Z",
+            "content_html": "<h1 id=\"操作方法\"><a class=\"anchor\" href=\"#操作方法\">#</a> 操作方法</h1>\n<p>ここでは、AOZ のイケてない画面設計が原因でよく困る操作に関する説明をします。</p>\n<h2 id=\"q1-void戦争などで相手サーバから302サーバへ戻る方法がわからない\"><a class=\"anchor\" href=\"#q1-void戦争などで相手サーバから302サーバへ戻る方法がわからない\">#</a> Q1. Void 戦争などで相手サーバから 302 サーバへ戻る方法がわからない！</h2>\n<p>A1. 下図のように操作します。</p>\n<table>\n<thead>\n<tr>\n<th>1</th>\n<th>2</th>\n<th>3</th>\n<th>4</th>\n<th>5</th>\n<th>6</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td><img data-src=\"/assets/operation/IMG_6346.PNG\" alt=\"\" /></td>\n<td><img data-src=\"/assets/operation/IMG_6347.PNG\" alt=\"\" /></td>\n<td><img data-src=\"/assets/operation/IMG_6348.PNG\" alt=\"\" /></td>\n<td><img data-src=\"/assets/operation/IMG_6349.PNG\" alt=\"\" /></td>\n<td><img data-src=\"/assets/operation/IMG_6350.PNG\" alt=\"\" /></td>\n<td><img data-src=\"/assets/operation/IMG_6351.PNG\" alt=\"\" /></td>\n</tr>\n</tbody>\n</table>\n<ol>\n<li>改行マークのようなところをタップします</li>\n<li>確定ボタンをタップします</li>\n<li>遠征前の自分の位置が表示されるので、[赤丸で囲ったアイコン] をタップします</li>\n<li>「時空の扉」をタップします</li>\n<li>[終了] ボタンをタップします</li>\n<li>元のワールドへ戻りますか？と聞かれるので [確定] ボタンをタップします</li>\n</ol>\n<p>以上！</p>\n",
+            "tags": [
+                "Tactical",
+                "Operation",
+                "操作方法",
+                "Operation"
+            ]
+        },
+        {
             "id": "https://bna-apron.github.io/Diary/diary/diary202105/",
             "url": "https://bna-apron.github.io/Diary/diary/diary202105/",
             "title": "BNA活動日誌(2021年5月)",

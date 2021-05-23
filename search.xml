@@ -4,6 +4,35 @@
   
     
     <entry>
+      <title>操作方法</title>
+      <link href="Tactical/Operation/%E6%93%8D%E4%BD%9C%E6%96%B9%E6%B3%95/Tactical/Operation/"/>
+      <url>Tactical/Operation/%E6%93%8D%E4%BD%9C%E6%96%B9%E6%B3%95/Tactical/Operation/</url>
+      
+        <content type="html"><![CDATA[<h1 id="操作方法"><a class="anchor" href="#操作方法">#</a> 操作方法</h1><p>ここでは、AOZ のイケてない画面設計が原因でよく困る操作に関する説明をします。</p><h2 id="q1-void戦争などで相手サーバから302サーバへ戻る方法がわからない"><a class="anchor" href="#q1-void戦争などで相手サーバから302サーバへ戻る方法がわからない">#</a> Q1. Void 戦争などで相手サーバから 302 サーバへ戻る方法がわからない！</h2><p>A1. 下図のように操作します。</p><table><thead><tr><th>1</th><th>2</th><th>3</th><th>4</th><th>5</th><th>6</th></tr></thead><tbody><tr><td><img data-src="/assets/operation/IMG_6346.PNG" alt="" /></td><td><img data-src="/assets/operation/IMG_6347.PNG" alt="" /></td><td><img data-src="/assets/operation/IMG_6348.PNG" alt="" /></td><td><img data-src="/assets/operation/IMG_6349.PNG" alt="" /></td><td><img data-src="/assets/operation/IMG_6350.PNG" alt="" /></td><td><img data-src="/assets/operation/IMG_6351.PNG" alt="" /></td></tr></tbody></table><ol><li>改行マークのようなところをタップします</li><li>確定ボタンをタップします</li><li>遠征前の自分の位置が表示されるので、[赤丸で囲ったアイコン] をタップします</li><li>「時空の扉」をタップします</li><li>[終了] ボタンをタップします</li><li>元のワールドへ戻りますか？と聞かれるので [確定] ボタンをタップします</li></ol><p>以上！</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Tactical </category>
+          
+          <category> Operation </category>
+          
+          <category> 操作方法 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Operation </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>BNA活動日誌(2021年5月)</title>
       <link href="Diary/diary/diary202105/"/>
       <url>Diary/diary/diary202105/</url>
